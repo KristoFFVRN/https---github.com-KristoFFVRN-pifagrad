@@ -43,7 +43,7 @@ class MainApp(App):
         button_text = instance.text
  
         if button_text == "C":
-            # Очистка виджета с решением
+            # Очистка виджета с 
             self.solution.text = ""
         else:
             if current and (
